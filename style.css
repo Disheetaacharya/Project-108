@@ -1,0 +1,48 @@
+body
+{
+    background-color:#84C3C8;
+    font-family: 'Lobster Two', cursive;
+}
+
+.header_div
+{
+    background-color:#F8D9D6;
+}
+
+.header_div h2
+{
+    font-size: 50px;
+    font-family: 'Special Elite', cursive;
+}
+
+.header_div p
+{
+    font-size:15px;
+    font-weight:bold;
+    color:#f4f4c8;
+    font-family:'Roboto Mono', monospace;
+    letter-spacing: 2px;
+}
+
+.main_div button
+{
+    margin-top: 30px;
+    font-family:'Source Code Pro', monospace ;
+    letter-spacing: 3px;
+    font-weight: bold;
+    width:130px ;
+}
+
+.footer
+{
+   color:#FEFFF6; 
+   font-size:22px;
+   text-align:center;
+   width:100%;
+   position: fixed;
+   bottom: 0px;
+   background-color:#42929D;
+   line-height: 3;
+   text-shadow: 5px 5px 5px rgb(151 , 149 , 149);
+}
+
